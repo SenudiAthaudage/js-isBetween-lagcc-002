@@ -1,0 +1,11 @@
+{
+  "name": "js-isbetween",
+  "version": "1.0.0",
+  "description": "isBetween exercise",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "devDependencies": {
+    "jasmine": "^5.1.0"
+  }
+}
